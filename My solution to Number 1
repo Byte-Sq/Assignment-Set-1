@@ -16,4 +16,4 @@ function fizzBuzz(string1, string2) {
   }
 }
 
-fizzBuzz("abbey", "onyango");
+fizzBuzz("fizz", "Buzz");
